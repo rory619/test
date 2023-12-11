@@ -2,9 +2,9 @@ package ie.atu;
 import java.util.Scanner;
 public class Trawler {
 
-    private string Name;
-    private string TransponderID;
-    private string Trawlertype;
+    private String Name;
+    private String TransponderID;
+    private String Trawlertype;
 
     public Trawler(String name, String transponderID, String trawlertype) {
         Name = name;
